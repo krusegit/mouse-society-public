@@ -1,0 +1,12 @@
+{
+  "product": "Mouse Society",
+  "platform": "web",
+  "source_commit": "a8e19385431e6bbe8958c4e0ef63caba7ea54e6b",
+  "source_dirty": false,
+  "built_at_utc": "2026-09-21T20:45:22.040537+00:00",
+  "godot_version": "4.7.2.stable.official.ed1daf0bf",
+  "emscripten_version": "4.0.20",
+  "renderer": "WebGL 2",
+  "threads": false,
+  "tests": "not run by deployment; browser startup checks are separate"
+}
