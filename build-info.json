@@ -1,9 +1,9 @@
 {
   "product": "Mouse Society",
   "platform": "web",
-  "source_commit": "a5db6f1743366d84496a49bd538e7cde6f4155c7",
+  "source_commit": "14e185b2460145519fc173a75958769289be3292",
   "source_dirty": false,
-  "built_at_utc": "2026-09-21T21:37:03.706740+00:00",
+  "built_at_utc": "2026-09-21T21:56:00.938682+00:00",
   "godot_version": "4.7.2.stable.official.ed1daf0bf",
   "emscripten_version": "4.0.20",
   "renderer": "WebGL 2",
