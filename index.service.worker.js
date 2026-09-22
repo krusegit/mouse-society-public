@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1790030778|1590526';
+const CACHE_VERSION = '1790062664|1433852';
 /** @type {string} */
 const CACHE_PREFIX = 'Mouse Society-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
